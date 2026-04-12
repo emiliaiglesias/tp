@@ -28,5 +28,5 @@ Los usuarios podrán crear viajes, registrar los lugares visitados, incluyendo r
 |CRUD dependiente|1. CRUD Viaje {depende de} CRUD Usuario<br> 2. CRUD Localidad {depende de} CRUD Pais<br> 3. CRUD Lugar {depende de} CRUD Localidad<br>|
 
 
-|Listado<br>+<br>detalle| 1. Listado de Reseñas filtrado por lugar y fecha.<br> 2. Listado de Hospedaje filtrado por lugar.<br>|
-|CUU/Epic|1. Registrar viaje nuevo. <br> 2. Registar reseña moderada con IA. <br> 3. Creación de carrusel de multimedia.<br>|
+|Listado + detalle| <br> 1. Listado de Reseñas filtrado por lugar y fecha. <br> 2. Listado de Hospedaje filtrado por lugar. <br>
+|CUU/Epic| <br> 1. Registrar viaje nuevo. <br> 2. Registar reseña moderada con IA. <br> 3. Creación de carrusel de multimedia.<br>
