@@ -18,7 +18,7 @@ El sistema consiste en una aplicación web de bitácora de viajes, que permite a
 Los usuarios podrán crear viajes, registrar los lugares visitados, incluyendo reseñas, descripciones, fechas y contenido multimedia.
 
 ### Modelo
-![Bitacora de Viaje DSW](https://github.com/user-attachments/assets/65332980-07b9-471c-883b-242a803c03a3)
+<img width="851" height="900" alt="Bitacora de Viaje MD" src="https://github.com/user-attachments/assets/a5b31b63-0143-4043-a617-d4635a59020c" />
 
 ## Alcance Funcional
 
